@@ -1,1 +1,5 @@
 from analysis changing device widh doesnt simulate the whole thing running as if from mobile
+Moving to run the script on Android Gmail app is complicated and not 100% guaranteed.
+
+Method 3:
+Using one-time free messaging services online to receive texts. => problem is most phone numbers have been used so its rendered useless/almost impossible
