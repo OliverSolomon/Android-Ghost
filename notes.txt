@@ -3,3 +3,5 @@ Moving to run the script on Android Gmail app is complicated and not 100% guaran
 
 Method 3:
 Using one-time free messaging services online to receive texts. => problem is most phone numbers have been used so its rendered useless/almost impossible
+
+That thus leaves me with the gmail app hack. It's complicated but I will tame that beast
